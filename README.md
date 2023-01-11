@@ -1,5 +1,4 @@
-
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+This is the completed version of my coursework
 
 #  Quizzler
 
@@ -58,6 +57,3 @@ You will program a trivia quiz app. If you have another field of expertise such 
 ```        
 
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
